@@ -1,1 +1,3 @@
-# user-authentication
+# User Authentication
+
+MEAN Stack excercises for Udemy classes.
